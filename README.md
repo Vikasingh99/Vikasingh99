@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 Vikas Singh 
-Summary<br><br>Aspiring Software Developer with strong focus on backend development, AI-powered applications, and real-world SaaS systems. Experienced in building projects involving PDF processing, web apps, and database-driven systems, with growing expertise in LLM integration and full-stack development.
+<br><br>Aspiring Software Developer with strong focus on backend development, AI-powered applications, and real-world SaaS systems. Experienced in building projects involving PDF processing, web apps, and database-driven systems, with growing expertise in LLM integration and full-stack development.
 
 
 ## 🌐 Socials:
